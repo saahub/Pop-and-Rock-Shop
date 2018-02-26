@@ -8,7 +8,7 @@ function Router(routes) {
         this.constructor(routes);
         this.init();
     } catch (e) {
-        console.error(e);   
+        console.error(e);
     }
 }
 
@@ -48,9 +48,9 @@ Router.prototype = {
             }
         }
     },
-    /* realiza la solicitus para obtener y cargar el html correcto*/
+    /* realiza la solicitud para obtener y cargar el html correcto*/
     goToRoute: function (htmlName) {
-        (function(scope) { 
+        (function(scope) {
             var url = 'views/' + htmlName,
                 xhttp = new XMLHttpRequest();
             xhttp.onreadystatechange = function () {

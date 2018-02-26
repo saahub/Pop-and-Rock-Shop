@@ -1,4 +1,4 @@
-'use stict'; //Este javascript proporcionará un constructor para nuestras Rutas.
+'use strict'; //Este javascript proporcionará un constructor para nuestras Rutas.
 
 function Route(name, htmlName, defaultRoute) {
     try {

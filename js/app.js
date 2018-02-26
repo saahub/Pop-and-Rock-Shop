@@ -10,8 +10,21 @@
     function init() {
         var router = new Router([
             new Route('home', 'home.html', true),
-            new Route('about', 'about.html')
+            new Route('about', 'about.html'),
+            new Route('search', 'search.html')
         ]);
     }
     init();
 }());
+
+/*config(function($routeProvider){
+  $routeProvider
+  .when("/",{
+    controller: "ReposController",
+    templateUrl: "templates/home.html"
+  })
+  .when("/repo/:name",{
+    controller: "RepoController",
+    templateUrl: "templates/repo.html"
+  })
+});*/
