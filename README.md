@@ -9,7 +9,7 @@
 - Creando un SPA simple
 - para mas información
 
-[Js: Vanilla script SPA]
+[Vanilla script SPA]
 
 
 :smile: [Helen Harnish](https://github.com/HelenHarnish)
