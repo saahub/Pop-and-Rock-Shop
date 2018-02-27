@@ -1,16 +1,15 @@
-
 [![Sourcegraph for Repo Reference Count](https://img.shields.io/badge/Release%20Date-February-brightgreen.svg?style=flat-square)]()
-
 
 # Proyecto final 6
 ## Proyecto desarrollo app e-commerce
 
 * Como reto final de este curso deberás crear una app web bajo los principios de SPA Single page aplication.
 
-## vanilla spa
+## Vanilla SPA
 
 - Creando un SPA simple
 - para mas información
+
 
 [Vanilla script SPA]
 
@@ -33,4 +32,5 @@
 :smile: [Daniela Parraguez](https://github.com/daniparraguez)
 :smile: [Carolina Saavedra](https://github.com/saahub)
 :smile: [Lorena Palominos](https://github.com/lpalominosf)
+
 

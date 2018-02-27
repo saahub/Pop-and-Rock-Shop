@@ -203,9 +203,14 @@ a:hover {
 }
 
 #PPMiniCart .minicart-details-price {
- margin-left: -7px;
+  margin-left: -7px;
 }
 
 #PPMiniCart {
  z-index: 9999;
+<<<<<<< HEAD
+
 }
+=======
+}
+>>>>>>> upstream/master
