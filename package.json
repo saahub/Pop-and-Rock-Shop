@@ -1,0 +1,24 @@
+{
+  "name": "mercado-pago",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniparraguez/Mercado-Pago.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniparraguez/Mercado-Pago/issues"
+  },
+  "homepage": "https://github.com/daniparraguez/Mercado-Pago#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "paypal-rest-sdk": "^1.8.1"
+  }
+}
