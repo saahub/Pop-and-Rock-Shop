@@ -164,4 +164,10 @@ a:hover {
   margin-top: 5%;
 }
 
+#PPMiniCart .minicart-details-price {
+ margin-left: -7px;
+}
 
+#PPMiniCart {
+ z-index: 9999;
+}
