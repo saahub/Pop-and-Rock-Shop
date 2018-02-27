@@ -1,4 +1,42 @@
 /*Estilos Home*/
+.funkoPop img {
+  width: 300px;
+  height: auto;
+  margin: 10px;
+}
+
+.card {
+  border: 1px solid #b5afaf;
+  width: 320px;
+  text-align: center;
+  margin: 20px;
+}
+
+.card h4 {
+  color: #0d77e6;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.card h4:hover {
+  color: #ec02aa;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.card p {
+  color: #000;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.card p:hover {
+  color: #000;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+}
 
 * {
   margin: 0;
