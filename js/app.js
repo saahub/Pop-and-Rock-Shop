@@ -11,7 +11,8 @@
         var router = new Router([
             new Route('home', 'home.html', true),
             new Route('about', 'about.html'),
-            new Route('search', 'search.html')
+            new Route('search', 'search.html'),
+            new Route('paypal', 'paypal.html')
         ]);
     }
     init();

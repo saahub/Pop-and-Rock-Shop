@@ -123,3 +123,6 @@ a:hover {
 .off2 {
   font-size: 12px;
 }
+li {
+	list-style: none;
+}
