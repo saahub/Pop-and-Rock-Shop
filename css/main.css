@@ -124,6 +124,11 @@ a {
 
 a:hover {
   color: #8A8787;
+  text-decoration: none;
+}
+
+.a-menu:hover {
+  color: #8A8787;
 }
 
 .emailus {
@@ -172,7 +177,35 @@ a:hover {
   font-size: 15px;
 }
 
+.btn-primary:hover {
+  background: #8A8787;
+  color: #000;
+}
+
 .mailinput {
   height: 42px;
   width: 230px;
+}
+
+
+.departments {
+  margin-top: 5%;
+}
+
+.navbar-inverse {
+  color: #fff;
+  font-weight: bold;
+}
+
+#search,
+#about {
+  margin-top: 5%;
+}
+
+#PPMiniCart .minicart-details-price {
+ margin-left: -7px;
+}
+
+#PPMiniCart {
+ z-index: 9999;
 }
