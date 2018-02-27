@@ -21,7 +21,7 @@ function addChar() {
 
     .then(function(data) {
       console.log(data);
-      let html = `    <div>
+      let html = `<div>
     <img src="${data.pictures[0].url}" alt="">
     <h1>${data.title}</h1>
   </div>`;
