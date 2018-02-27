@@ -200,12 +200,18 @@ a:hover {
 #search,
 #about {
   margin-top: 5%;
+  background-color: 
 }
 
 #PPMiniCart .minicart-details-price {
- margin-left: -7px;
+  margin-left: -7px;
 }
 
 #PPMiniCart {
  z-index: 9999;
+<<<<<<< HEAD
+
 }
+=======
+}
+>>>>>>> upstream/master
