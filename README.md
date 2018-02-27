@@ -19,7 +19,6 @@
 * Slack fue utilizado para mantener la comunicación entre el equipo.
 * Se utilizó el método SCRUM para mantener una buena organización y mejorar los tiempos de entrega del producto.
 
-:smile: [Carolina Saavedra](https://github.com/saahub)
 :smile: [Helen Harnish](https://github.com/HelenHarnish)
 :smile: [Daniela Parraguez](https://github.com/daniparraguez)
 :smile: [Carolina Saavedra](https://github.com/saahub)
