@@ -1,3 +1,5 @@
+/*Estilos Home*/
+
 * {
   margin: 0;
   padding: 0;
@@ -7,10 +9,10 @@ li {
 	list-style: none;
 }
 
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
 body {
-  font-family: 'Open Sans', 'sans-serif';
+  font-family: 'Open Sans';
 }
+
 .mega-dropdown {
   position: static !important;
 }
@@ -58,7 +60,7 @@ body {
 }
 
 .left.carousel-control {
-  right: 30px;
+  right: 40px;
   left: inherit;
 }
 
@@ -77,8 +79,8 @@ a {
   color: #000;
 }
 
-.footer-titles {
-  font-size: 20px;
+.sidebar-titles {
+  font-size: 15px;
   font-weight: bold;
 }
 
@@ -123,6 +125,18 @@ a:hover {
 .off2 {
   font-size: 12px;
 }
-li {
-	list-style: none;
+
+.btn-primary {
+  background: #000;
+  color: #fff;
+  width: 120px;
+  height: 45px;
+  font-size: 15px;
 }
+
+.mailinput {
+  height: 42px;
+  width: 230px;
+}
+
+
