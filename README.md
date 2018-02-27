@@ -20,6 +20,7 @@
 * Slack fue utilizado para mantener la comunicación entre el equipo.
 * Se utilizó el método SCRUM para mantener una buena organización y mejorar los tiempos de entrega del producto.
 
+
 ## Acerca del producto:
 
 * Nuestra APP web consiste en la compra online de figuras de colección correspondientes a la marca Funko Pop, por medio del pago vía Paypal.
