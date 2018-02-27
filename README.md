@@ -13,7 +13,7 @@
 ![Js: Vanilla script SPA]()
 
 :smile: [Carolina Saavedra](https://github.com/saahub)
-=======
+
 :smile: [Helen Harnish](https://github.com/HelenHarnish)
 :smile: [Daniela Parraguez](https://github.com/daniparraguez)
 :smile: [Carolina Saavedra](https://github.com/saahub)
