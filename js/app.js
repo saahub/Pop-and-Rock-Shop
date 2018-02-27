@@ -6,25 +6,29 @@
 
 'use strict';
 
-(function() {
-  function init() {
-    var router = new Router([
-      new Route('home', 'home.html', true),
-      new Route('about', 'about.html'),
-      new Route('search', 'search.html')
-    ]);
-  }
-  init();
+(function () {
+    function init() {
+        var router = new Router([
+            new Route('home', 'home.html', true),
+            new Route('about', 'about.html'),
+            new Route('search', 'search.html'),
+            new Route('paypal', 'paypal.html')
+        ]);
+    }
+    init();
 }());
 
-/* config(function($routeProvider){
-  $routeProvider
-  .when("/",{
-    controller: "ReposController",
-    templateUrl: "templates/home.html"
-  })
-  .when("/repo/:name",{
-    controller: "RepoController",
-    templateUrl: "templates/repo.html"
-  })
-});*/
+$(document).ready(function(){
+  $(".dropdown").hover(
+    function() {
+      $('.dropdown-menu', this).not('.in .dropdown-menu').stop(true,true).slideDown("400");
+      $(this).toggleClass('open');
+      },
+    function() {
+      $('.dropdown-menu', this).not('.in .dropdown-menu').stop(true,true).slideUp("400");
+      $(this).toggleClass('open');
+    }
+  );
+});
+
+
