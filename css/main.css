@@ -208,9 +208,9 @@ a:hover {
 
 #PPMiniCart {
  z-index: 9999;
-<<<<<<< HEAD
+}
 
+.about {
+  margin-top: 5%;
 }
-=======
-}
->>>>>>> upstream/master
+
