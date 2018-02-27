@@ -6,18 +6,18 @@
 
 'use strict';
 
-(function () {
-    function init() {
-        var router = new Router([
-            new Route('home', 'home.html', true),
-            new Route('about', 'about.html'),
-            new Route('search', 'search.html')
-        ]);
-    }
-    init();
+(function() {
+  function init() {
+    var router = new Router([
+      new Route('home', 'home.html', true),
+      new Route('about', 'about.html'),
+      new Route('search', 'search.html')
+    ]);
+  }
+  init();
 }());
 
-/*config(function($routeProvider){
+/* config(function($routeProvider){
   $routeProvider
   .when("/",{
     controller: "ReposController",
